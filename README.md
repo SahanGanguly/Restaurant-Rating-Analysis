@@ -1,4 +1,5 @@
 # Restaurant-Rating-Analysis
+
 1. Restraunt Rating Prediction
 The project aims to form a regression model in order to predict the ratings recieved by restraunts based on various quantitative and qualititative factors using three different regression models- linear regression model, decision tree regressor and random forrest regressor.
 The models are then evaluated using K-fold cross validation in order to derive whichh model performs best.
